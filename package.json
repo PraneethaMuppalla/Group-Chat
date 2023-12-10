@@ -1,0 +1,15 @@
+{
+  "name": "simplegroupchat",
+  "version": "1.0.0",
+  "description": "Simple Group Chat",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "author": "Praneetha Muppalla",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
